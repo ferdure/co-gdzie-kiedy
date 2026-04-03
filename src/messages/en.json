@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "Shopping List",
+    "subtitle": "co-gdzie-kiedy"
+  },
+  "nav": {
+    "categoryView": "By Category",
+    "opportunityView": "Opportunities",
+    "language": "Language"
+  },
+  "filters": {
+    "title": "Filters",
+    "date": "Date",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "pickDate": "Pick date",
+    "opportunityName": "Opportunity name",
+    "allOpportunities": "All opportunities",
+    "clearFilters": "Clear filters"
+  },
+  "items": {
+    "cancel": "Cancel",
+    "addItem": "Add item",
+    "itemName": "Item name",
+    "category": "Category",
+    "unit": "Unit",
+    "quantity": "Quantity",
+    "markBought": "Mark as bought",
+    "markUnbought": "Mark as not bought",
+    "noItems": "No items found",
+    "noItemsWithOpportunities": "No items with active opportunities",
+    "bought": "Bought"
+  },
+  "units": {
+    "piece": "pcs",
+    "kg": "kg",
+    "g": "g",
+    "l": "l",
+    "ml": "ml",
+    "pack": "pack",
+    "bottle": "bottle"
+  },
+  "opportunities": {
+    "title": "Opportunities",
+    "name": "Name",
+    "dateFrom": "From",
+    "dateTo": "To",
+    "valueDecimal": "Price",
+    "valuePercentage": "Discount %",
+    "noOpportunities": "No opportunities",
+    "active": "Active",
+    "upcoming": "Upcoming",
+    "expired": "Expired",
+    "addOpportunity": "Add opportunity",
+    "editOpportunity": "Edit opportunity",
+    "deleteOpportunity": "Delete opportunity"
+  },
+  "api": {
+    "successCreate": "Created successfully",
+    "successUpdate": "Updated successfully",
+    "successDelete": "Deleted successfully",
+    "errorCreate": "Failed to create",
+    "errorUpdate": "Failed to update",
+    "errorDelete": "Failed to delete",
+    "errorNotFound": "Not found",
+    "errorValidation": "Validation error"
+  },
+  "categories": {
+    "noCategory": "Uncategorized"
+  }
+}

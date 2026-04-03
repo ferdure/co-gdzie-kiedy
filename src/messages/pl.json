@@ -1,0 +1,71 @@
+{
+  "app": {
+    "title": "Lista Zakupów",
+    "subtitle": "co-gdzie-kiedy"
+  },
+  "nav": {
+    "categoryView": "Wg Kategorii",
+    "opportunityView": "Okazje",
+    "language": "Język"
+  },
+  "filters": {
+    "title": "Filtry",
+    "date": "Data",
+    "today": "Dzisiaj",
+    "tomorrow": "Jutro",
+    "pickDate": "Wybierz datę",
+    "opportunityName": "Nazwa okazji",
+    "allOpportunities": "Wszystkie okazje",
+    "clearFilters": "Wyczyść filtry"
+  },
+  "items": {
+    "cancel": "Anuluj",
+    "addItem": "Dodaj produkt",
+    "itemName": "Nazwa produktu",
+    "category": "Kategoria",
+    "unit": "Jednostka",
+    "quantity": "Ilość",
+    "markBought": "Oznacz jako kupione",
+    "markUnbought": "Oznacz jako niekupione",
+    "noItems": "Brak produktów",
+    "noItemsWithOpportunities": "Brak produktów z aktywnymi okazjami",
+    "bought": "Kupione"
+  },
+  "units": {
+    "piece": "szt",
+    "kg": "kg",
+    "g": "g",
+    "l": "l",
+    "ml": "ml",
+    "pack": "opak",
+    "bottle": "but"
+  },
+  "opportunities": {
+    "title": "Okazje",
+    "name": "Nazwa",
+    "dateFrom": "Od",
+    "dateTo": "Do",
+    "valueDecimal": "Cena",
+    "valuePercentage": "Rabat %",
+    "noOpportunities": "Brak okazji",
+    "active": "Aktywna",
+    "upcoming": "Nadchodząca",
+    "expired": "Wygasła",
+    "addOpportunity": "Dodaj okazję",
+    "editOpportunity": "Edytuj okazję",
+    "deleteOpportunity": "Usuń okazję"
+  },
+  "api": {
+    "successCreate": "Utworzono pomyślnie",
+    "successUpdate": "Zaktualizowano pomyślnie",
+    "successDelete": "Usunięto pomyślnie",
+    "errorCreate": "Błąd podczas tworzenia",
+    "errorUpdate": "Błąd podczas aktualizacji",
+    "errorDelete": "Błąd podczas usuwania",
+    "errorNotFound": "Nie znaleziono",
+    "errorValidation": "Błąd walidacji"
+  },
+  "categories": {
+    "noCategory": "Bez kategorii"
+  }
+}
