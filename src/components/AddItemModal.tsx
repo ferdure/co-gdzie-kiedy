@@ -132,7 +132,7 @@ export function AddItemModal({ categories, onClose, onAdd }: AddItemModalProps) 
               onClick={onClose}
               className="flex-1 px-4 py-2 rounded-lg border border-gray-200 text-sm text-gray-600 hover:bg-gray-50 transition-colors"
             >
-              Cancel
+              {t('cancel')}
             </button>
             <button
               type="submit"

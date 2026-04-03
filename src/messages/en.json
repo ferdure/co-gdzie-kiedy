@@ -19,6 +19,7 @@
     "clearFilters": "Clear filters"
   },
   "items": {
+    "cancel": "Cancel",
     "addItem": "Add item",
     "itemName": "Item name",
     "category": "Category",

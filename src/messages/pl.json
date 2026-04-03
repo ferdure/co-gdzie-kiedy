@@ -19,6 +19,7 @@
     "clearFilters": "Wyczyść filtry"
   },
   "items": {
+    "cancel": "Anuluj",
     "addItem": "Dodaj produkt",
     "itemName": "Nazwa produktu",
     "category": "Kategoria",
